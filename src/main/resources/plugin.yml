@@ -1,0 +1,5 @@
+name: BungeeCommandExecutor
+version: ${project.version}
+main: skylix.me.bungeecommandexecutor.bukkit.BungeeCommandExecutor
+authors: [SkylixMC]
+description: Execute commands across bukkit servers and bungee proxies
